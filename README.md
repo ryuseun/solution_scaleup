@@ -1,7 +1,7 @@
 ## Welcome to 'Image/Video Scale-Up Solution' Pages
 
 You can download all of images.  
-https://github.com/ryuseun/solution_scaleup [Link](https://github.com/ryuseun/solution_scaleup)  
+https://github.com/ryuseun/solution_scaleup [[Link](https://github.com/ryuseun/solution_scaleup)]  
 https://ryuseun.github.io/solution_scaleup/
 
 **Animation Image**  
