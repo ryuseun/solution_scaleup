@@ -12,17 +12,17 @@ _LeftUp: Croped Original Image_ <-------------> _RightUp: Half Size Image (Used 
 _LeftDown: Scale-Up by using Photoshop_ <--> _RightDown: Scale-Up by using Proposed Method_   
 ![Image Compare #0](./output_aa0.jpg)
 
-Animation Image Comparison #1*  
+*Animation Image Comparison #1*  
 _LeftUp: Croped Original Image_ <-------------> _RightUp: Half Size Image (Used as input)_   
 _LeftDown: Scale-Up by using Photoshop_ <--> _RightDown: Scale-Up by using Proposed Method_   
 ![Image Compare #1](./output_aa1.jpg)
 
-Animation Image Comparison #2*  
+*Animation Image Comparison #2*  
 _LeftUp: Croped Original Image_ <-------------> _RightUp: Half Size Image (Used as input)_   
 _LeftDown: Scale-Up by using Photoshop_ <--> _RightDown: Scale-Up by using Proposed Method_  
 ![Image Compare #2](./output_aa2.jpg)
 
-Animation Image Comparison #3*  
+*Animation Image Comparison #3*  
 _LeftUp: Croped Original Image_ <-------------> _RightUp: Half Size Image (Used as input)_   
 _LeftDown: Scale-Up by using Photoshop_ <--> _RightDown: Scale-Up by using Proposed Method_  
 ![Image Compare #3](./output_aa3.jpg)
