@@ -5,7 +5,9 @@ repository
 
 
 Animation Image Comparison #0
-Croped Original Image       -- Half Size Image (Used as input)
+
+Croped Original Image       -- Half Size Image (Used as input) 
+
 Scale-Up by using Photoshop -- Scale-Up by using Proposed Method
 ![Image Compare #0](./output_aa0.jpg)
 
