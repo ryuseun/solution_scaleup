@@ -5,8 +5,8 @@ repository
 
 
 Animation Image Comparison #0  
-_LeftUp: Croped Original Image_             _RightUp: Half Size Image (Used as input)_   
-_LeftDown: Scale-Up by using Photoshop_    _RightDown: Scale-Up by using Proposed Method_   
+_LeftUp: Croped Original Image_,                        _RightUp: Half Size Image (Used as input)_   
+_LeftDown: Scale-Up by using Photoshop_,    _RightDown: Scale-Up by using Proposed Method_   
 ![Image Compare #0](./output_aa0.jpg)
 
 Animation Image Comparison #1 \
