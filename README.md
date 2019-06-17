@@ -4,11 +4,11 @@ repository
 [Link](https://github.com/ryuseun/solution_scaleup)
 
 
-**Animation Image Comparison #0 
-*LeftUp: Croped Original Image 
-*RightUp: Half Size Image (Used as input) 
-*LeftDown: Scale-Up by using Photoshop 
-*RightDown: Scale-Up by using Proposed Method 
+*Animation Image Comparison #0* 
+-LeftUp: Croped Original Image 
+-RightUp: Half Size Image (Used as input) 
+-LeftDown: Scale-Up by using Photoshop 
+-RightDown: Scale-Up by using Proposed Method 
 ![Image Compare #0](./output_aa0.jpg)
 
 Animation Image Comparison #1 \
